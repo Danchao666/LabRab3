@@ -1,4 +1,4 @@
-language: python
+language: Python
 python:
  - "3.7.10"
 before_install:
